@@ -1,0 +1,45 @@
+body {
+  font-family: "Roboto", sans-serif;
+  background-color: #f1f1f1;
+  color: #282828;
+}
+
+.card {
+  border: none;
+  -webkit-box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+          box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.card-title {
+  font-weight: bold;
+}
+
+.btn-success {
+  background-color: #107c10;
+  border: none;
+}
+
+.py-5 {
+  padding-bottom: 8rem !important;
+}
+
+.footer .col-md-4 {
+  margin-bottom: 20px;
+}
+.footer h5 {
+  color: #107c10;
+}
+.footer ul {
+  padding-left: 0;
+}
+.footer ul li {
+  list-style: none;
+  margin-bottom: 10px;
+}
+.footer ul li a {
+  color: #f1f1f1;
+  text-decoration: none;
+}
+.footer ul li a:hover {
+  text-decoration: underline;
+}

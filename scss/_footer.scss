@@ -1,0 +1,27 @@
+.footer {
+    .col-md-4 {
+      margin-bottom: 20px;
+    }
+  
+    h5 {
+      color: $primary-color;
+    }
+  
+    ul {
+      padding-left: 0;
+  
+      li {
+        list-style: none;
+        margin-bottom: 10px;
+  
+        a {
+          color: $light-color;
+          text-decoration: none;
+  
+          &:hover {
+            text-decoration: underline;
+          }
+        }
+      }
+    }
+}  
